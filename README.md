@@ -1,0 +1,2 @@
+# Skoleni
+Repozitar ze skoleni
